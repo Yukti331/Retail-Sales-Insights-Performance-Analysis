@@ -40,7 +40,7 @@ Retail-Sales-Insights-Performance-Analysis/
 
 ## 🖼️ Dashboard Preview
 ![Dashboard Overview](images/dasboard_overview.png)
-![Regional Sales](images/region_sales.png)
+![Regional Sales](images/retail_sales.png)
 ![Category Performance](images/category_performance.png)
 
 
