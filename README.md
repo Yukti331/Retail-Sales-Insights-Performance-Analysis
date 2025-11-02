@@ -39,7 +39,7 @@ Retail-Sales-Insights-Performance-Analysis/
 **SQL, Python (Pandas, Matplotlib, Seaborn), Power BI, DAX**
 
 ## 🖼️ Dashboard Preview
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](images/dasboard_overview.png)
 ![Regional Sales](images/region_sales.png)
 ![Category Performance](images/category_performance.png)
 
